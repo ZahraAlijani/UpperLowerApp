@@ -10,7 +10,7 @@ This notebook contains examples of fuzzy sets and numbers. Some practical challe
 
 
 ## `differential_equation.ipynb`
-This notebook contains  numerical examples for solving differential equations:
+This notebook contains  numerical examples for solving differential equations.
 
 
 
